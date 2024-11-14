@@ -2,4 +2,8 @@
 layout: default
 ---
 
-## Project Portfolio
+## Clara Bates
+
+## About Me
+
+## Data Sources and Project Ideas
