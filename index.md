@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Clara Bates
 ---
 
 ## About Me
