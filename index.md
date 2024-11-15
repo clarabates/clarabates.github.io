@@ -30,4 +30,6 @@ This dataset provides salmon harvest counts from 1974-2012. For each year, the c
 ## Where's Schueller
 <div id="wheres-schueller"></div>
 
+For this project, we wanted to explore how often Professor Schueller supports Whitman tennis. The map below displays every time Professor Schueller attended a tennis match in 2022 and 2023.
+
 {% include_relative assets/figures/tennisPlotly.html %}
