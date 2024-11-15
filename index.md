@@ -5,10 +5,12 @@ description: Personal Portfolio
 ---
 
 ## About Me
+<div id="about-me"></div>
 
 I am currently a student at Whitman College studying Computer Science. I will graduate this May and I am excited to enter the post-grad world!
 
 ## Data Sources and Project Ideas
+<div id="data-sources"></div>
 
 [Electrical Vehicle Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 
@@ -18,4 +20,5 @@ I am currently a student at Whitman College studying Computer Science. I will gr
 
 [Fish Harvest Data](https://catalog.data.gov/dataset/washington-anadromous-fish-harvest-data-1974-2012)
 
-
+## Where's Schueller
+<div id="wheres-schueller"></div>
