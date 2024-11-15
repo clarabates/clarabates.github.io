@@ -27,7 +27,7 @@ The Highly Capable Program is an accelerated learning program for eligible stude
 
 This dataset provides salmon harvest counts from 1974-2012. For each year, the counts are placed into one of the three following categories: treaty, commercial, or sport fishing. Counts are also divided by species.
 
-## Where's Schueller
+## Where's Schueller??
 <div id="wheres-schueller"></div>
 
 For this project, we wanted to explore how often Professor Schueller supports Whitman tennis. The map below displays every time Professor Schueller attended a tennis match in 2022 and 2023.
