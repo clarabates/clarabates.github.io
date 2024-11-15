@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Clara Bates
-description: Personal Portfolio
 ---
 
 ## About Me
