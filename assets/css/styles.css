@@ -51,6 +51,10 @@ body {
     text-decoration: underline;
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 .content {
     padding: 20px;
     max-width: 800px;
