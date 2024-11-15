@@ -30,4 +30,4 @@ This dataset provides salmon harvest counts from 1974-2012. For each year, the c
 ## Where's Schueller
 <div id="wheres-schueller"></div>
 
-{% include_relative figures/five_mile.html %}
+{% include_relative assets/figures/tennisPlotly.html %}
