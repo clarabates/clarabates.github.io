@@ -3,7 +3,7 @@ layout: default
 title: Clara Bates
 ---
 
-<img src="assets/images/banner.jpg" alt="Banner Image" style="width: 100%; height: auto; display: block; margin-bottom: 20px;">
+<img src="assets/images/banner1.jpeg" alt="Banner Image" style="width: 100%; height: auto; display: block; margin-bottom: 20px;">
 
 ## About Me
 
