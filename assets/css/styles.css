@@ -13,7 +13,7 @@ body {
     background-color: #002868;
     color: white;
     text-align: center;
-    padding: 20px;
+    padding: 40px;
 }
 
 .site-header h1 {
@@ -24,6 +24,40 @@ body {
 .site-header p {
     margin: 5px 0 0;
     font-size: 1.2em;
+}
+
+/* Navigation bar styles */
+.navbar ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.navbar li {
+    display: inline;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    font-size: 1.1em;
+    font-weight: bold;
+}
+
+.navbar a:hover {
+    text-decoration: underline;
+}
+
+.content {
+    padding: 20px;
+    max-width: 800px;
+    margin: 20px auto;
+    background: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 /* Main Text Style*/
