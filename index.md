@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Clara Bates
+description: Personal Portfolio
 ---
 
 <img src="assets/images/banner1.jpeg" alt="Banner Image" style="width: 100%; height: auto; display: block; margin-bottom: 20px;">
