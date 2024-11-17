@@ -62,18 +62,28 @@ html {
     background: white;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-}
 
 #countdown {
     text-align: center;
-    margin: 20px 0;
-    font-family: 'Montserrat', sans-serif;
+    margin: 40px 0;
+    font-family: 'Montserrat', sans-serif; /* Ensure Montserrat is imported */
+}
+
+#countdown p {
+    font-size: 1.2em;
+    color: #555; /* Subtle gray for the description text */
+    margin-bottom: 10px;
 }
 
 #timer {
-    font-size: 1.5em;
-    color: #4CAF50; /* Green color */
+    font-size: 2em; /* Larger size for the timer */
+    color: #4CAF50; /* Green to indicate positivity */
     font-weight: bold;
+    background-color: #f9f9f9; /* Subtle background for contrast */
+    padding: 10px 20px;
+    border-radius: 10px; /* Rounded corners */
+    display: inline-block;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
 }
 
 /* Main Text Style*/
