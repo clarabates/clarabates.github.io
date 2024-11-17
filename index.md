@@ -32,3 +32,12 @@ This dataset provides salmon harvest counts from 1974-2012. For each year, the c
 For this project, we wanted to explore how often Professor Schueller supports Whitman tennis. The map below displays every time Professor Schueller attended a tennis match in 2022 and 2023.
 
 {% include_relative assets/figures/tennisPlotly.html %}
+
+## Above and Beyond
+
+For the above and beyond portion of this project, I decide to include a countdown timer for graduation. 
+
+<div id="countdown">
+    <p>Time left until Graduation on May 25, 2025:</p>
+    <div id="timer"></div>
+</div>
