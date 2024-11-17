@@ -27,11 +27,11 @@ Hello! I am currently a student at Whitman College studying Computer Science. I 
 
 **Description**: This dataset tracks all artworks that are publicly owned, publicly sited, and publicly selected in Washington State. It contains information about the art, as well as where it is displayed.
 
-**Project Ideas**: With this data, we can create an interactive map of all public art in Washington. One potential feature could include suggestions for the best cities to visit to see public art, or maybe road trip routes to view the artwork. For additional analysis, we can examine the which mediums are most popular, or what year the majority of the artwork was made.
+**Project Ideas**: With this data, we can create an interactive map of all public art in Washington. One potential feature could include suggestions for the best cities to visit to see public art, or maybe road trip routes to view the artwork. For additional analysis, we can examine which mediums are most popular, or when the majority of the artwork was made.
 
 [Greenhouse Gas Report](https://catalog.data.gov/dataset/washingtons-state-art-collection-2024-07-15)
 
-**Description**: This dataset contains all greenhouse gas data reported to the Washington State Department of Ecology as of 2017. For each organization, there is emission data for all types of greenhouse gases. Additional information includes the location and energy sector designations.
+**Description**: This dataset contains all greenhouse gas data reported to the Washington State Department of Ecology as of 2017. For each organization, there is emission data for all types of greenhouse gases. Additional information includes the location of the organization and its energy sector designations.
 
 **Project Ideas**: This data would be great for examining how emissions are distributed geographically across the state, and where we might find higher concentrations of ghg emissions. We can also explore emissions between sectors. For example, does the sector impact total emissions? Does it impact the proportion of each gas in the total emissions?
 
@@ -39,7 +39,7 @@ Hello! I am currently a student at Whitman College studying Computer Science. I 
 
 **Description**: This dataset provides salmon harvest counts from 1974-2012. For each year, the counts are placed into one of the three following categories: treaty, commercial, or sport fishing. Counts are also divided by species.
 
-**Project Ideas**: With this dataset, we can perform time-series analyses to compare how the fishing categories' contributions (treaty, commercial, sport) evolved over the decades. To supplement this, we can also examine how changes in fishing policies have affected these numbers. If we wanted to use machine learning, we can build a predictive model to forecast salmon harvests in future years based on historical data and fishing categories. 
+**Project Ideas**: With this dataset, we can perform time-series analyses to compare how the fishing categories' contributions (treaty, commercial, sport) evolved over the decades. To supplement this, we can also examine how changes in fishing policies have affected these numbers. If we wanted to use machine learning, we can build a predictive model to forecast salmon harvests in future years. 
 
 ## Where's Schueller??
 <div id="wheres-schueller"></div>
@@ -57,3 +57,5 @@ For the above and beyond portion of this project, I decided to include a countdo
     <p>Countdown Until Graduation:</p>
     <div id="timer"></div>
 </div>
+
+Unfortunately, I'm not sure if this countdown instills excitment or dread.
