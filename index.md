@@ -13,7 +13,9 @@ Hello! I am currently a student at Whitman College studying Computer Science. I 
 
 [Electrical Vehicle Data](https://catalog.data.gov/dataset/electric-vehicle-population-data)
 
-This dataset contains information about all battery powered and plug-in hybrid vehicles that are currently registered in Washington State. This information includes vehicle make, model, year, and electric range. There is also data about the location of each registered vehicle.
+Description: This dataset contains information about all battery powered and plug-in hybrid vehicles that are currently registered in Washington State. This information includes vehicle make, model, year, and electric range. There is also data about the location of each registered vehicle.
+
+Project Ideas: 
 
 [Highly Capable Student Data](https://catalog.data.gov/dataset/2024-school-year-highly-capable-data)
 
@@ -39,6 +41,6 @@ For this project, we wanted to explore how often Professor Schueller supports Wh
 For the above and beyond portion of this project, I decide to include a countdown timer for graduation. 
 
 <div id="countdown">
-    <p>Time left until Graduation on May 25, 2025:</p>
+    <p>Countdown Until Graduation:</p>
     <div id="timer"></div>
 </div>
