@@ -63,4 +63,4 @@ Unfortunately, I'm not sure if this countdown instills excitment or dread.
 ## Final Project
 <div id="final-project"></div>
 
-For my final project in Data Science, I worked with a partner to analyze the distribution of electric vehicles and electric vehicle chargers across Washington State. Check out the project[here](https://clarabates.github.io/hw10/)!
+For my final project in Data Science, I worked with a partner to analyze the distribution of electric vehicles and electric vehicle chargers across Washington State. Check out the project [here](https://clarabates.github.io/hw10/)!
