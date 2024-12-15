@@ -14,6 +14,7 @@ body {
     color: white;
     text-align: center;
     padding: 40px;
+    border-bottom: 5px solid #f0f8ff; /* Optional visual border between header and navbar */
 }
 
 .site-header h1 {
@@ -26,13 +27,20 @@ body {
     font-size: 1.2em;
 }
 
-/* Navigation bar styles */
+/* Navigation Bar Styles */
+.navbar {
+    background-color: #00509e; /* Change this color for the navbar box */
+    padding: 10px 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional drop shadow for navbar */
+    border-top: 2px solid #002868; /* Visually connects navbar to header */
+}
+
 .navbar ul {
     list-style: none;
     padding: 0;
+    margin: 0;
     display: flex;
     justify-content: center;
-    margin-top: 10px;
     gap: 50px;
 }
 
