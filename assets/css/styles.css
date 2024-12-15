@@ -29,7 +29,7 @@ body {
 
 /* Navigation Bar Styles */
 .navbar {
-    background-color: #00509e; /* Change this color for the navbar box */
+    background-color: ##010E30; /* Change this color for the navbar box */
     padding: 10px 0;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional drop shadow for navbar */
     border-top: 2px solid #002868; /* Visually connects navbar to header */
