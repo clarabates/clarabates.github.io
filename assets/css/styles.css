@@ -34,7 +34,7 @@ body {
     display: flex;
     justify-content: center;
     mt: 10px;
-    gap: 30px;
+    gap: 50px;
 }
 
 .navbar li {
